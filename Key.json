@@ -14,7 +14,10 @@
     "DP-98B24B": {
       "status": "approved",
       "max_devices": 1,
-      "expiry_date": "2026-08-20"
+      "expiry_date": "2026-08-20",
+      "hwid": [
+        "487216ca5194c756"
+      ]
     }
   }
 }
