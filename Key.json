@@ -7,8 +7,7 @@
     "maintenance": false,
     "banned_devices": [
       "hacker_hwid_1",
-      "spammer_hwid_2",
-      "487216ca5194c756"
+      "spammer_hwid_2"
     ]
   },
   "keys": {
